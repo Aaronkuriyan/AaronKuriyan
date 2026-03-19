@@ -22,12 +22,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaronKuriyan&theme=tokyo-night&hide_border=true"/>
 </p>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaronKuriyan&theme=tokyo-night&hide_border=true" />
-</p>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AaronKuriyan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
