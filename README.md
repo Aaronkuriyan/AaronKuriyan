@@ -1,34 +1,66 @@
-<h1 align="center">Hi 👋, I'm Aaron</h1>
-<h3 align="center">Aspiring Full Stack Developer 🚀</h3>
-
+## 🛠 Tech Stack
 <p align="center">
-  Learn • Build • Improve • Repeat
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,cpp,mongodb,git,github,html,css" />
 </p>
 
 ---
 
-## 🚀 Current Status
-- 🔭 Learning: Advanced JavaScript & Backend
-- 🛠 Building: Real-world projects
-- 🎯 Goal: Full Stack Developer
-
----
-
-## ⚙️ Tech Stack
+## 📊 GitHub Insights
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,java,cpp,mongodb,git,github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AaronKuriyan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaronKuriyan&theme=github-dark&hide_border=true&background=0d1117" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronKuriyan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Project
+
+### 🧠 Market Chatbot (AI + Live Data)
+
+- 📈 Provides real-time financial insights  
+- 🤖 AI-powered responses  
+- 🌍 Supports multiple currencies  
+- ⚡ Built using Streamlit + APIs  
+
+👉 This is something I actively improve.
+
+---
+
+## 📌 Developer Mindset
+
+> I don’t wait to feel ready. I start, struggle, and figure it out.
+
+---
+
+## 🎯 Goals for 2026
+
+- 🚀 Become a Full Stack Developer  
+- 🧩 Build 5–10 real-world projects  
+- 🌐 Contribute to open source  
+- 📈 Improve daily  
+
+---
+
+## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AaronKuriyan&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaronKuriyan&theme=tokyonight" />
+  <img src="https://github.com/AaronKuriyan/AaronKuriyan/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="#">LinkedIn</a> • 
+  <a href="#">Instagram</a> • 
+  <a href="#">Email</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Always+Learning...;Building+Projects...;Future+Full+Stack+Dev" />
-</p>
+  ⚡ Always building. Always improving.
+</p>  
