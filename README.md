@@ -11,7 +11,7 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-104-0d1117?style=for-the-badge&logo=github&logoColor=00ffcc" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-117-0d1117?style=for-the-badge&logo=github&logoColor=00ffcc" />
   <img src="https://img.shields.io/badge/Current%20Streak-1-0d1117?style=for-the-badge&logo=fire&logoColor=00ffcc" />
   <img src="https://img.shields.io/badge/Longest%20Streak-8-0d1117?style=for-the-badge&logo=clockify&logoColor=00ffcc" />
 </p>
