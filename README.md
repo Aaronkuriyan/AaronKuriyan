@@ -11,30 +11,18 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-
-<table>
-<tr>
-
-<td align="center">
-<h1>269</h1>
-<p>✨ <b>Total Contributions</b></p>
-<p><sub>Updated manually</sub></p>
-</td>
-
-<td align="center">
-<h1>🔥 1</h1>
-<p><b>Current Streak</b></p>
-</td>
-
-<td align="center">
-<h1>8</h1>
-<p><b>Longest Streak</b></p>
-</td>
-
-</tr>
-</table>
-
+  <img src="https://img.shields.io/badge/Total%20Contributions-104-blueviolet?style=for-the-badge&logo=github" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AaronKuriyan&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AaronKuriyan&theme=tokyonight" />
+</p>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AaronKuriyan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
