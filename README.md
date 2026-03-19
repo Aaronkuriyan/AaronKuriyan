@@ -11,7 +11,7 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributions-104-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Contributions-109-blue?style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
