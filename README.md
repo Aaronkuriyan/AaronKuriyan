@@ -15,11 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-104-blueviolet?style=for-the-badge&logo=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaronKuriyan&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AaronKuriyan&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
