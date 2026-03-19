@@ -11,17 +11,36 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributions-109-blue?style=for-the-badge&logo=github" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AaronKuriyan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170"/>
-</p>
+<table>
+<tr>
+<td align="center" width="33%">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaronKuriyan&theme=tokyo-night&hide_border=true"/>
-</p>
+<h2>269</h2>
+<p><b>Total Contributions</b></p>
+<p>Feb 2025 – Present</p>
 
+</td>
+
+<td align="center" width="33%">
+
+<h2>🔥 1</h2>
+<p><b>Current Streak</b></p>
+<p>Mar 19</p>
+
+</td>
+
+<td align="center" width="33%">
+
+<h2>8</h2>
+<p><b>Longest Streak</b></p>
+<p>Aug 5 – Aug 12</p>
+
+</td>
+</tr>
+</table>
+
+</p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AaronKuriyan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
