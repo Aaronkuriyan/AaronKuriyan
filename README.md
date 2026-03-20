@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+👋+I'm+Aaron+Kuriyan;Building+real-world+projects;AI+%2B+Web+Dev+Enthusiast;Consistency+over+motivation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there+I'm+CSE+Student;Building+real-world+projects;AI+%2B+Web+Dev+Enthusiast;Consistency+over+motivation" />
 </p>
 
 ---
