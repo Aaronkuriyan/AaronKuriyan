@@ -43,7 +43,7 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-104-blueviolet?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-126-blueviolet?style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
@@ -90,8 +90,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> •
-  <a href="https://instagram.com/YOUR_LINK">Instagram</a> •
+  <a href="https://www.linkedin.com/in/aaron-kuriyan-36017b326/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BK826MfjiRmug3J2qcMHbxQ%3D%3D">LinkedIn</a> •
+  <a href="https://www.instagram.com/aaron_kryn?igsh=MW53b2Y5bnl5eDR3MA==">Instagram</a> •
   <a href="mailto:aaronkuriyan04@gmail.com">Email</a>
 </p>
 
