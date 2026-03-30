@@ -43,7 +43,7 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-126-blueviolet?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-145-blueviolet?style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
