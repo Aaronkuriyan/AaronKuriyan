@@ -13,10 +13,10 @@
 ## 🧠 About Me
 
 - 🔭 Currently building  
-  Real-world projects like an AI-powered market chatbot  
+  Real-world projects like an AI-powered market chatbot.  
 
 - 🤝 Open to collaborate on  
-  Web development & AI-based projects  
+  Web development & AI-based projects.
 
 - 🧠 Exploring  
   Backend systems, APIs, and scalable apps  
