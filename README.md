@@ -30,12 +30,3 @@
 - ⚡ Fun fact  
   I don’t wait to feel ready — I build and figure it out  
 
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,cpp,mongodb,git,github,html,css" />
-</p>
-
----
