@@ -75,6 +75,4 @@
 
 ---
 
-<p align="center">
-  ⚡ Always building. Always improving.
-</p>
+
