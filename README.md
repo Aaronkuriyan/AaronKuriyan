@@ -305,3 +305,12 @@ status:
 </div>
 
 ---
+# Aaron@github:~$ achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AaronKuriyan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</div>
+
+---
