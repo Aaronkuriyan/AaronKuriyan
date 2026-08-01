@@ -39,21 +39,3 @@
 </p>
 
 ---
-
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-145-blueviolet?style=for-the-badge&logo=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AaronKuriyan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=AaronKuriyan&theme=tokyonight&hide_border=true&ring=ff9a00&fire=ff9a00&currStreakLabel=ff9a00" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronKuriyan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
