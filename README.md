@@ -9,24 +9,3 @@
 </p>
 
 ---
-
-## 🧠 About Me
-
-- 🔭 Currently building  
-  Real-world projects like an AI-powered market chatbot.  
-
-- 🤝 Open to collaborate on  
-  Web development & AI-based projects.
-
-- 🧠 Exploring  
-  Backend systems, APIs, and scalable apps  
-
-- 🌱 Learning  
-  Advanced JavaScript, Backend, and AI integration  
-
-- 💬 Ask me about  
-  My projects, debugging, or learning by building  
-
-- ⚡ Fun fact  
-  I don’t wait to feel ready — I build and figure it out  
-
