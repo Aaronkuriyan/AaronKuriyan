@@ -149,3 +149,129 @@ status:
 ```
 
 ---
+# Aaron@github:~$ tree projects
+
+```text
+📂 projects
+│
+├── 🤖 ai-market-chatbot
+├── 💰 expense-tracker-ai
+├── 🌐 portfolio-website
+└── ☕ java-swing-applications
+```
+
+---
+
+<div align="center">
+
+## 🤖 AI Market Chatbot
+
+**An AI-powered financial assistant delivering live market insights, stock analysis, and intelligent responses.**
+
+<p>
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-Powered-8A2BE2?style=for-the-badge"/>
+</p>
+
+✨ Features
+
+- 📈 Live Stock Market Data
+- 🤖 AI-powered Financial Assistant
+- 🌍 Multi-Currency Support
+- 📊 Interactive Charts
+- ⚡ Fast & Responsive Interface
+
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/View%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LIVE_DEMO">
+<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💰 Expense Tracker AI
+
+**A modern expense management platform with intelligent tracking and analytics.**
+
+<p>
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+✨ Features
+
+- 💵 Expense Tracking
+- 📊 Dashboard Analytics
+- 🤖 AI-powered Categorization
+- 📱 Responsive Design
+
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/View%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LIVE_DEMO">
+<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Personal Portfolio
+
+**A responsive portfolio website showcasing my projects, skills, and developer journey.**
+
+<p>
+<img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+✨ Features
+
+- 📱 Responsive Design
+- 🎨 Modern UI
+- ⚡ Fast Performance
+- 🌐 Portfolio Showcase
+
+</div>
+
+---
+
+<div align="center">
+
+## ☕ Java Swing Applications
+
+**A collection of desktop applications built using Java Swing to strengthen Object-Oriented Programming concepts.**
+
+<p>
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swing-GUI-blueviolet?style=for-the-badge"/>
+</p>
+
+✨ Features
+
+- 🖥 Desktop Applications
+- 🧩 Object-Oriented Design
+- 📚 Java GUI Development
+
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/View%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
