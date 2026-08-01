@@ -68,3 +68,84 @@ status:
 > *"Consistency beats motivation. Every project is one step closer to mastery."*
 
 ---
+# Aaron@github:~$ ls tech-stack
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+</p>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+</td>
+
+<td align="center">
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 🛠 Tools & IDEs
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+# Aaron@github:~$ echo "current_focus"
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✔ Full Stack Development
+
+✔ Artificial Intelligence
+
+✔ Backend Development
+
+✔ Modern UI/UX
+
+✔ Open Source
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
