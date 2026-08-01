@@ -8,18 +8,9 @@
 
 <!-- Replace these after we upload the final SVG banner -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/AaronKuriyan/AaronKuriyan/main/dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/AaronKuriyan/AaronKuriyan/main/light.svg">
-
-  <img
-    alt="Aaron Banner"
-    src="https://raw.githubusercontent.com/AaronKuriyan/AaronKuriyan/main/light.svg"
-    width="100%">
-</picture>
+<p align="center">
+<img src="https://placehold.co/1180x610/0A101F/22D3EE?text=AARON+OS+LOADING..." width="100%">
+</p>
 
 </p>
 
