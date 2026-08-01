@@ -363,3 +363,17 @@ src="https://raw.githubusercontent.com/AaronKuriyan/AaronKuriyan/output/github-s
 </div>
 
 ---
+<div align="center">
+
+```cpp
+while(alive)
+{
+    learn();
+    build();
+    improve();
+}
+```
+
+⭐ If you like my work, consider starring my repositories.
+
+</div>
