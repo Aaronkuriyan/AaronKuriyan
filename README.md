@@ -65,19 +65,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-### 🧠 Market Chatbot (AI + Live Data)
-
-- 📈 Real-time financial insights  
-- 🤖 AI-powered responses  
-- 🌍 Multi-currency support  
-- ⚡ Built with Streamlit + APIs  
-
-👉 Actively improving and expanding features  
-
----
-
 ## 🎯 Goals for 2026
 
 - 🚀 Become a confident Full Stack Developer  
