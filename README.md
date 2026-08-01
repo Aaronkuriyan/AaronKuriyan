@@ -65,15 +65,6 @@
 
 ---
 
-## 🎯 Goals for 2026
-
-- 🚀 Become a confident Full Stack Developer  
-- 🧩 Build 5–10 real-world projects  
-- 🌐 Contribute to open source  
-- 📈 Improve every single day  
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
