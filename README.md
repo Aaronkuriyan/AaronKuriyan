@@ -140,3 +140,12 @@ Status ::
 </div>
 
 ---
+## <img src="https://img.icons8.com/fluency/22/trophy.png"/> `achievements`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AaronKuriyan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</div>
+
+---
