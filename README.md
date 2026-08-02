@@ -131,3 +131,12 @@ Status ::
 </div>
 
 ---
+## <img src="https://img.icons8.com/fluency/22/activity-history.png"/> `activity`
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AaronKuriyan&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
