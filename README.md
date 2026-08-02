@@ -50,44 +50,38 @@ width="100%">
 
 ---
 
-# Aaron@github:~$ whoami
 
-```yaml
-name: Aaron Prakash Kuriyan
+````markdown
+## <img src="https://img.icons8.com/fluency/20/console.png"/> `whoami`
 
-role:
-  Software Developer
+```bash
+$ whoami
 
-specialization:
-  - Full Stack Development
-  - Artificial Intelligence
+Name            :: Aaron Prakash Kuriyan
+Role            :: Software Developer
+Education       :: Computer Science Student
+Location        :: Mangaluru, Karnataka 🇮🇳
 
-education:
-  - B.E Computer Science
-  - St Joseph Engineering College
+Specialization  ::
+  • Full Stack Development
+  • Artificial Intelligence
 
-location:
-  - Mangaluru, Karnataka, India
+Currently Building ::
+  • AI Market Chatbot
+  • Expense Tracker AI
+  • Personal Portfolio
 
-currently_learning:
-  - React
-  - Backend Development
-  - Artificial Intelligence
-  - System Design
+Currently Learning ::
+  • React Ecosystem
+  • Backend Development
+  • AI Engineering
+  • System Design
 
-currently_building:
-  - AI Market Chatbot
-  - Expense Tracker AI
-  - Developer Portfolio
-
-goal:
+Mission ::
   Build software that solves real-world problems.
 
-status:
-  Building • Learning • Shipping
-```
-
----
+Status ::
+  🟢 Online
 
 # Aaron@github:~$ echo "developer_philosophy"
 
