@@ -260,3 +260,32 @@ src="https://raw.githubusercontent.com/AaronKuriyan/AaronKuriyan/output/github-s
 </div>
 
 ---
+## <img src="https://img.icons8.com/fluency/22/share.png"/> `connect`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aaron-kuriyan-36017b326">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="mailto:aaronkuriyan04@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/AaronKuriyan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://aaron-kuriyan.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
