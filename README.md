@@ -149,57 +149,30 @@ Status ::
 </div>
 
 ---
-## <img src="https://img.icons8.com/fluency/22/source-code.png"/> `featured-projects`
+## <img src="https://img.icons8.com/fluency/22/source-code.png"/> Featured Projects
 
 <div align="center">
 
 <table>
+
 <tr>
 
 <td width="50%">
 
-### 🤖 AI Market Chatbot
+<a href="https://github.com/AaronKuriyan/market-chatbot">
 
-AI-powered financial assistant with live market data, AI insights, charts and multi-currency support.
+<img src="./assets/market-chatbot.png"/>
 
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-AI-purple?style=flat-square)
-
-<br>
-
-<a href="YOUR_MARKET_CHATBOT_REPO">
-<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="YOUR_MARKET_CHATBOT_DEMO">
-<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 </td>
 
 <td width="50%">
 
-### 💰 Expense Tracker AI
+<a href="https://github.com/AaronKuriyan/expense-tracker-ai">
 
-Modern expense tracker with analytics dashboard and AI-powered categorization.
+<img src="./assets/expense-tracker.png"/>
 
-**Tech Stack**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-<br>
-
-<a href="YOUR_EXPENSE_TRACKER_REPO">
-<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="YOUR_EXPENSE_TRACKER_DEMO">
-<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 </td>
@@ -210,25 +183,21 @@ Modern expense tracker with analytics dashboard and AI-powered categorization.
 
 <td width="50%">
 
-### 🌐 Portfolio Website
+<a href="https://github.com/AaronKuriyan/portfolio">
 
-Personal developer portfolio showcasing projects, skills and experience.
+<img src="./assets/portfolio.png"/>
 
-**Tech Stack**
-
-React • TailwindCSS • Framer Motion
+</a>
 
 </td>
 
 <td width="50%">
 
-### ☕ Java Swing Applications
+<a href="https://github.com/AaronKuriyan/java-swing-applications">
 
-Desktop applications built using Java Swing and Object-Oriented Programming.
+<img src="./assets/java-swing.png"/>
 
-**Tech Stack**
-
-Java • Swing
+</a>
 
 </td>
 
@@ -237,8 +206,6 @@ Java • Swing
 </table>
 
 </div>
-
----
 ## <img src="https://img.icons8.com/fluency/22/source-code.png"/> `contribution-graph`
 
 <div align="center">
