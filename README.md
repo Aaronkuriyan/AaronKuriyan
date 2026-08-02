@@ -4,23 +4,35 @@
 
 <!-- ==================== BANNER ==================== -->
 
-<p align="center">
+<div align="center">
 
-<!-- Replace these after we upload the final SVG banner -->
+<img src="./assets/dark.svg" width="100%" alt="AaronOS Banner"/>
 
-<p align="center">
-<img src="https://placehold.co/1180x610/0A101F/22D3EE?text=AARON+OS+LOADING..." width="100%">
+# Aaron Prakash Kuriyan
+
+### Software Developer • Full Stack Developer • AI Enthusiast
+
+<p>
+
+<a href="https://github.com/AaronKuriyan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aaron-kuriyan-36017b326">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aaronkuriyan04@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
-</p>
-
----
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Aaron%40github%3A~%24+initializing+profile...;Software+Developer;Full+Stack+Developer;AI+Enthusiast;Building+Real+World+Applications;Always+Learning+%F0%9F%9A%80"/>
-
-</p>
+</div>
 
 ---
 
