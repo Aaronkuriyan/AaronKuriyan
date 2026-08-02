@@ -289,3 +289,17 @@ src="https://raw.githubusercontent.com/AaronKuriyan/AaronKuriyan/output/github-s
 </div>
 
 ---
+<div align="center">
+
+```cpp
+while (alive)
+{
+    learn();
+    build();
+    improve();
+}
+```
+
+⭐ Thanks for visiting my profile!
+
+</div>
