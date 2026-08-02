@@ -100,3 +100,34 @@ Status ::
 </div>
 
 ---
+## <img src="https://img.icons8.com/fluency/22/combo-chart.png"/> `dashboard`
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AaronKuriyan&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AaronKuriyan&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AaronKuriyan&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AaronKuriyan&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AaronKuriyan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=AaronKuriyan&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
