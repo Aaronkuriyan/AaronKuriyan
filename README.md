@@ -46,63 +46,13 @@
 
 ## 🚀 Featured Project
 
-## <img src="https://img.icons8.com/fluency/22/source-code.png"/> Featured Projects
+### 🧠 Market Chatbot (AI + Live Data)
+- 📈 Real-time financial insights
+- 🤖 AI-powered responses
+- 🌍 Multi-currency support
+- ⚡ Built with Streamlit + APIs
 
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-<a href="https://github.com/AaronKuriyan/market-chatbot">
-
-<img src="./assets/market-chatbot.png"/>
-
-</a>
-
-</td>
-
-<td width="50%">
-
-<a href="https://github.com/AaronKuriyan/expense-tracker-ai">
-
-<img src="./assets/expense-tracker.png"/>
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<a href="https://github.com/AaronKuriyan/portfolio">
-
-<img src="./assets/portfolio.png"/>
-
-</a>
-
-</td>
-
-<td width="50%">
-
-<a href="https://github.com/AaronKuriyan/java-swing-applications">
-
-<img src="./assets/java-swing.png"/>
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+Actively improving and expanding features.
 
 ## 🎯 Goals for 2026
 
